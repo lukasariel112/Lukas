@@ -2,13 +2,12 @@
 ## My name is Lukas Ariel and my nickname is "Arielzinho"!
 
 - 🔭 Atualmente estou trabalhando na Raster Gerenciamento de Risco como analista de qualidade
-- 🌱 Atualmente estou aprendendo Js, Php E DB focado tanto em back-end quanto front
+- 🌱 Atualmente estou aprendendo Js, nodeJS E DB focado tanto em back-end quanto front
 - 👯 Estou procurando colaborar em empresas de tecnologia;
 - 🤔 Estou procurando ajuda com back-end
 - 💬 Pergunte-me sobre o que gosto de fazer
 - 📫 Como entrar em contato comigo: Instagram @arielzinho_lukas -  Discord gost1;
-- 😄 Pronomes: Lukas, Lukinhas, Ariel...
-- ⚡ Curiosidade: Tenho 17 anos, e sou apaixonado por programação desde sempre em si pela tecnologia e área de TI
+- ⚡ Curiosidade: Tenho 17 anos, e sou apaixonado por programação desde sempre e a área de TI
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
